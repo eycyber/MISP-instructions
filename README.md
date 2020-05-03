@@ -13,12 +13,12 @@
  
  
 ## Preparation 
-### Update and upgrade your Ubuntu OS
+#### Update and upgrade your Ubuntu OS
 ```
 sudo apt-get update
 sudo apt-get upgrade
 ```
-### Install dependencies
+#### Install dependencies
 ```
 sudo apt install haveged -qy
 sudo service haveged start
@@ -36,7 +36,7 @@ wget -O /tmp/INSTALL.sh https://raw.githubusercontent.com/MISP/MISP/2.4/INSTALL/
 bash /tmp/INSTALL.sh -c
 ```
 
-## (Optional) Put SSL (Let's Encrypt)
+#### (Optional) Put SSL (Let's Encrypt)
 ```
 sudo add-apt-repository ppa:certbot/certbot
 sudo apt install python-certbot-apache
