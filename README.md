@@ -9,7 +9,7 @@
 ```
 ## Optional requirements
 ```
- - Alternately, take a cloud server for 5 $ per month in Digital Ocean or AWS or Azure (you will get servers for free at least for 2-3 months)
+ - Alternately, take a cloud server for 5 $ per month in Digital Ocean or AWS or Azure (you will get servers for free for 2-6 months)
  - Buy a domain for 140 INR which you can use for a year or renew
  - SSL certificate for the domain (free by Let's Encrypt)
 ```
@@ -59,4 +59,11 @@ sudo certbot --apache -d <your_domain_or_ip>
 (Optional) To renew certificate, required only after 2-3 months, but you can still check for it now
 
 sudo certbot renew --dry-run
+```
+
+#### (Warning) Things to note
+```
+ - Ensure all incoming connections are blocked using a firewall on all ports (except from your IP). This can be better managed if you are using a cloud server.
+ - Change default passwords, keys etc. after checking their documentation. plenty of tutorials and getting started fuide around
+ - Don't install in EY laptop or EY test machines (you can install in a separate VM though)
 ```
