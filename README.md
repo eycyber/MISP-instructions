@@ -4,7 +4,7 @@
 
 ## Requirements
 ```
- - Ubuntu installed system or Virtual Machine (preferred 4 GB ram and 25 GB hdd, 1 demo-ed with 2GB ram and 50 GB hdd)
+ - Ubuntu installed system or Virtual Machine (preferred 4 GB ram and 25 GB hdd, I demo-ed with 2GB ram and 50 GB hdd)
  - Internet connection
 ```
 ## Optional requirements
