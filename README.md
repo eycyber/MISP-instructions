@@ -27,13 +27,15 @@ sudo apt install haveged -qy
 sudo service haveged start
 ```
 
-## Check compatibility
+## Installation
+
+#### Check compatibility
 ```
 wget -O /tmp/INSTALL.sh https://raw.githubusercontent.com/MISP/MISP/2.4/INSTALL/INSTALL.sh
 bash /tmp/INSTALL.sh
 ```
 
-## Install MISP Core
+#### Install MISP Core
 ```
 wget -O /tmp/INSTALL.sh https://raw.githubusercontent.com/MISP/MISP/2.4/INSTALL/INSTALL.sh
 bash /tmp/INSTALL.sh -c
