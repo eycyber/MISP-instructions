@@ -3,14 +3,16 @@
 ## Time required: 30 mins
 
 ## Requirements
+```
  - Ubuntu installed system or Virtual Machine (preferred 4 GB ram and 25 GB hdd, 1 demo-ed with 2GB ram and 50 GB hdd)
- - internet connection
-
+ - Internet connection
+```
 ## Optional requirements
+```
  - Alternately, take a cloud server for 5 $ per month in Digital Ocean or AWS or Azure (you will get servers for free at least for 2-3 months)
  - Buy a domain for 140 INR which you can use for a year or renew
  - SSL certificate for the domain (free by Let's Encrypt)
- 
+```
  
 ## Preparation 
 #### Update and upgrade your Ubuntu OS
