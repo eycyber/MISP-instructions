@@ -7,7 +7,7 @@
  - Ubuntu installed system or Virtual Machine (preferred 4 GB ram and 25 GB hdd, I demo-ed with 2GB ram and 50 GB hdd)
  - Internet connection
 ```
-## Optional requirements
+#### Optional requirements
 ```
  - Alternately, take a cloud server for 5 $ per month in Digital Ocean or AWS or Azure (you will get servers for free for 2-6 months)
  - Buy a domain for 140 INR which you can use for a year or renew
@@ -15,6 +15,7 @@
 ```
  
 ## Preparation 
+
 #### Update and upgrade your Ubuntu OS
 ```
 sudo apt-get update
