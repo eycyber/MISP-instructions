@@ -46,7 +46,7 @@ bash /tmp/INSTALL.sh -c
 sudo add-apt-repository ppa:certbot/certbot
 sudo apt install python-certbot-apache
  
-(Optional) In case you have your domain, open the virtual host file for your domain using nano or your favorite text editor:
+__(Optional) In case you have your domain, open the virtual host file for your domain using nano or your favorite text editor:__
 
 sudo nano /etc/apache2/sites-available/your_domain.conf
 ServerName <enter_your_domain>;
