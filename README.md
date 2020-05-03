@@ -1,6 +1,6 @@
 # General instructions to help you quickly setup and use MISP
 
-## Time required: 30 mins
+## Time required: 20-30 mins
 
 ## Requirements
 ```
