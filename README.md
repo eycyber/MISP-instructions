@@ -61,7 +61,7 @@ sudo certbot --apache -d <your_domain_or_ip>
 sudo certbot renew --dry-run
 ```
 
-#### (Warning) Things to note
+# Warning! Precautions to take
 ```
  - Ensure all incoming connections are blocked using a firewall on all ports (except from your IP). This can be better managed if you are using a cloud server.
  - Change default passwords, keys etc. after checking their documentation. plenty of tutorials and getting started fuide around
