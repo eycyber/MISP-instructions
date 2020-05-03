@@ -64,6 +64,6 @@ sudo certbot renew --dry-run
 # Warning! Precautions to take
 ```
  - Ensure all incoming connections are blocked using a firewall on all ports (except from your IP). This can be better managed if you are using a cloud server.
- - Change default passwords, keys etc. after checking their documentation. plenty of tutorials and getting started fuide around
+ - Change default passwords, keys etc. -> Plenty of tutorials and getting started guide you can refer
  - Don't install in EY laptop or EY test machines (you can install in a separate VM though)
 ```
