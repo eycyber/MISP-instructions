@@ -61,7 +61,7 @@ Get ssl certificate for your domain (or IP address if there is no domain)
 
 (Optional) To renew certificate, required only after 2-3 months, but you can still check for it now
 
-sudo certbot renew --dry-run
+# sudo certbot renew --dry-run
 ```
 
 # Warning! Precautions to take
