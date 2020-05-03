@@ -10,7 +10,7 @@
 #### Optional requirements
 ```
  - Alternately, take a cloud server for 5 $ per month in Digital Ocean or AWS or Azure (you will get servers for free for 2-6 months)
- - Buy a domain for 140 INR which you can use for a year or renew
+ - Buy a domain for approx. 140-200 INR which you can use for a year or renew
  - SSL certificate for the domain (free by Let's Encrypt)
 ```
  
